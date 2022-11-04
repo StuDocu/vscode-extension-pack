@@ -1,0 +1,28 @@
+{
+  "name": "studocu-extension-pack",
+  "displayName": "Studocu Extension Pack",
+  "description": "Recommended VSCode extensions for Studocu development.",
+  "version": "0.0.1",
+  "icon": "images/studocu-logo.jpg",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "mgmcdermott.vscode-language-babel",
+    "Anjali.clipboard-history",
+    "adpyke.codesnap",
+    "oouo-diogo-perdigao.docthis",
+    "dsznajder.es7-react-js-snippets",
+    "Blodwynn.featurehighlight",
+    "eamodio.gitlens",
+    "GitHub.vscode-pull-request-github",
+    "absszero.vscode-laravel-goto",
+    "leizongmin.node-module-intellisense",
+    "christian-kohler.path-intellisense",
+    "bmewburn.vscode-intelephense-client",
+    "neilbrayfield.php-docblocker"
+  ]
+}
