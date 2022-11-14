@@ -2,13 +2,17 @@
   "name": "studocu-extension-pack",
   "displayName": "Studocu Extension Pack",
   "description": "Recommended VSCode extensions for Studocu development.",
-  "version": "0.0.1",
-  "icon": "images/studocu-logo.jpg",
+  "repository": "https://github.com/StuDocu/vscode-extension-pack",
+  "publisher": "Studocu",
+  "version": "0.1.1",
+  "icon": "images/studocu-logo.jpeg",
   "engines": {
     "vscode": "^1.72.0"
   },
   "categories": [
-    "Extension Packs"
+    "Extension Packs",
+    "Linters",
+    "Snippets"
   ],
   "extensionPack": [ 
     "mgmcdermott.vscode-language-babel",
