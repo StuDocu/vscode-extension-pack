@@ -4,7 +4,7 @@
   "description": "Recommended VSCode extensions for Studocu development.",
   "repository": "https://github.com/StuDocu/vscode-extension-pack",
   "publisher": "Studocu",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "icon": "images/studocu-logo.jpeg",
   "engines": {
     "vscode": "^1.72.0"
@@ -27,6 +27,7 @@
     "leizongmin.node-module-intellisense",
     "christian-kohler.path-intellisense",
     "bmewburn.vscode-intelephense-client",
-    "neilbrayfield.php-docblocker"
+    "neilbrayfield.php-docblocker",
+    "mattpocock.ts-error-translator"
   ]
 }
