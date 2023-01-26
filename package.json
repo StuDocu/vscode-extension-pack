@@ -14,7 +14,7 @@
     "Linters",
     "Snippets"
   ],
-  "extensionPack": [ 
+  "extensionPack": [
     "mgmcdermott.vscode-language-babel",
     "Anjali.clipboard-history",
     "adpyke.codesnap",
@@ -28,6 +28,7 @@
     "christian-kohler.path-intellisense",
     "bmewburn.vscode-intelephense-client",
     "neilbrayfield.php-docblocker",
-    "mattpocock.ts-error-translator"
+    "mattpocock.ts-error-translator",
+    "streetsidesoftware.code-spell-checker"
   ]
 }
